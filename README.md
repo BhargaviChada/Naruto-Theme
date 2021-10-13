@@ -10,7 +10,7 @@ Konnichiwa! Use this theme the next time you code, while listening to some Japan
 
 - Launch Visual Studio Code.
 - Go to the Extensions View using `CTRL+Shift+X`
-- Search for `bhargavi.Naruto-Theme`
+- Search for `BhargaviChada.naruto-theme`
 - Click on Install to install the Color Theme.
 - Click on Reload to reload VSCode.
 - From the menu bar click: `Code > Preferences > Color Theme > Pick Naruto Theme` <br>
