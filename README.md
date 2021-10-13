@@ -1,13 +1,27 @@
-# README
-## This is the README for your extension "naruto-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Naruto VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Preview :
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Preview img](/images/preview.png)
 
-**Enjoy!**
+## Installation
+
+- Launch Visual Studio Code.
+- Go to the Extensions View using `CTRL+Shift+X`
+- Search for `bhargavi.Naruto-Theme`
+- Click on Install to install the Color Theme.
+- Click on Reload to reload VSCode.
+- From the menu bar click: `Code > Preferences > Color Theme > Pick Naruto Theme` <br>
+  And ta-dah!
+
+## Resources
+
+Colors for this theme were chosen from the following Sources:
+
+- [Color Hex : Naruto Color Palette](https://www.color-hex.com/color-palette/11138)
+- [hexcolor](https://hexcolor.co/image-to-colors)
+- [Coolors](https://coolors.co/)
+
+## Collaborators
+
+Bhargavi Chada
