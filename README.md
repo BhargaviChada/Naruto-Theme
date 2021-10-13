@@ -2,7 +2,7 @@
 
 ### Preview :
 
-![Preview img](/images/preview.png)
+![Preview img](/images/preview.JPG)
 
 ## Installation
 
