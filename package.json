@@ -1,0 +1,21 @@
+{
+    "name": "naruto-theme",
+    "displayName": "Naruto Theme",
+    "description": "Dattebayo! Theme inspired by the Naruto manga",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Naruto Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Naruto Theme-color-theme.json"
+            }
+        ]
+    }
+}
