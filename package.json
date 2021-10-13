@@ -1,8 +1,23 @@
 {
     "name": "naruto-theme",
     "displayName": "Naruto Theme",
-    "description": "Dattebayo! Theme inspired by the Naruto manga",
+    "description": "Dattebayo! A theme inspired by the Naruto manga",
     "version": "0.0.1",
+    "publisher": "BhargaviChada",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BhargaviChada/Naruto-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Naruto",
+        "Anime",
+        "Manga",
+        "Naruto theme",
+        "Naruto dark",
+        "Naruto dark theme"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
