@@ -1,5 +1,7 @@
 # Naruto VS Code Theme
 
+konnichiwa! Use this theme the next time you code, while listening to some Japanese Lofi.
+
 ### Preview :
 
 ![Preview img](/images/preview.JPG)
@@ -16,7 +18,7 @@
 
 ## Resources
 
-Colors for this theme were chosen from the following Sources:
+Colors for this theme were chosen from the following sources:
 
 - [Color Hex : Naruto Color Palette](https://www.color-hex.com/color-palette/11138)
 - [hexcolor](https://hexcolor.co/image-to-colors)
